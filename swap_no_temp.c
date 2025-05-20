@@ -3,7 +3,7 @@ int main() {
 
     int a, b; //declaration de deux variables entiers
     
-    scanf("%d %d", &a, &b);  //lecteur des deux nombre
+    scanf("%d %d", &a, &b);  //lecteur des deux nombres
 
     
     a = a + b;    // a devient la somme de a et b
